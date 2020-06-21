@@ -1,6 +1,6 @@
 let readline = require('readline-sync');
 
-console.log('Bem vindo, deseja saber qual é o seu signo? ')
+console.log('Bem vindo! Deseja saber qual é o seu signo? ')
 let dia = readline.questionInt('Então me diz, qual foi o dia que você nasceu: ');
 let mes = readline.questionInt('Agora me informe o mes que você nasceu: ');
 
